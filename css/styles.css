@@ -19,3 +19,16 @@ li {
     line-height: 1rem;
     margin-bottom: 0.75rem;
 }
+
+.aw-image {
+    height: 100vh;
+    background-image: url("../img/img.jpg");
+    background-size: cover;
+    background-position: center center; 
+}
+
+.aw-content {
+    padding: 2.5rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
