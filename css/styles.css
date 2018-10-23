@@ -26,6 +26,11 @@ li {
     background-size: cover;
     background-position: center center; 
 }
+/* dla przewijania się treści po prawej a IMG się nie przewija !!! */
+/* for scroll content of the right and IMG stand still */
+.aw-content-wrapper {
+    overflow: auto;
+}
 
 .aw-content {
     padding: 1.5rem;
@@ -91,6 +96,10 @@ li {
     }
 }
 @media (min-width: 992px) {
+    .aw-main-wrapper {
+        width: 100%;
+        height: 100vh;
+    }
     .aw-image {
         height: 100vh;
     }
