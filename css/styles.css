@@ -53,3 +53,22 @@ li {
     font-size: 1.313rem;
     line-height: 2rem;
 }
+
+.aw-list-headings {
+    font-weight: 600;
+    font-size: 0.975rem;
+    line-height: 0.75rem;
+    margin-bottom: 1.25rem;
+    color: #cfcfcf;
+    letter-spacing: 0.125rem;
+    opacity: 0.75;
+}
+a.list {
+    margin-bottom: 1.25rem;
+}
+.aw-credit {
+    opacity: 0.4;
+    font-size: 0.75rem;
+    line-height: 0.875rem;
+
+}
