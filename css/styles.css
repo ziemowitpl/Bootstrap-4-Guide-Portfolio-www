@@ -109,10 +109,17 @@ li {
 }
 @media (min-width: 1200px) {
     .aw-content {
+        max-width: 900px;
         padding: 3.75rem 2.5rem;
     }
     .aw-tagline {
         font-size: 4rem;
         line-height: 5rem;
+    }
+}
+
+@media(min-width: 1400px) {
+    .aw-content {
+        padding: 3.75rem 0;
     }
 }
