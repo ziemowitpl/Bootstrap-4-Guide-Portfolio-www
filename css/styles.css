@@ -32,3 +32,24 @@ li {
     margin-top: auto;
     margin-bottom: auto;
 }
+
+.aw-name {
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1rem;
+    margin-bottom: 2.5rem;
+    letter-spacing: 0.4px;
+    color: #47bec7;
+}
+.aw-tagline {
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 4rem;
+    letter-spacing: 0;
+    color: #cfcfcf;
+}
+.aw-bio {
+    padding: 1.875rem 0;
+    font-size: 1.313rem;
+    line-height: 2rem;
+}
